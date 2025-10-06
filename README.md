@@ -1,8 +1,8 @@
-![Dat & Procurement Analytics](img/banner-kevin.png)
+![Dat & Procurement Analytics](img/banner-kevin1.png)
 
 # Kévin CÉCILE
 
-Basel / Zürich, Switzerland · EN · DE · FR · ES (learning Mandarin)  
+Basel / Zürich, Switzerland · EN · DE · FR · ES  
 **Focus:** Procurement and Data Analytics — turn operating data into decisions.
 
 ---
