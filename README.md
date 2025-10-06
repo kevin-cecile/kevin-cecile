@@ -1,4 +1,4 @@
-![Dat & Procurement Analytics](img/banner-kevin1.png)
+![Dat & Procurement Analytics](img/banner-kevin2.png)
 
 # Kévin CÉCILE
 
